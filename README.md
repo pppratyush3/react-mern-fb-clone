@@ -6,7 +6,7 @@ You can check node version --> node -v
 install ionic cli --> npm install -g @ionic/cli (6.11.11)
 You can check ionic version --> ionic version
 
-`````````````SETTING UP MONGO DB
+`SETTING UP MONGO DB `
 
 1.Go to https://www.mongodb.com/
 2.Login in or Sign up
@@ -19,12 +19,9 @@ Under Password Authentication Enter user name ( For example admin )
 Click on Autogenerate Secure Password (Which will genetate the secure password. Copy that and save it somewhere. Will be used to connect to mongodb).
 Click in Add User
 
-````````````SETTING UP MONGO DB
+```````````` SETTING UP MONGO DB `````````````
 
 To clone us --> git clone https://github.com/pppratyush3/react-mern-fb-clone.git
 
-
 run --> npm install
-
-eOARiVVRKVcyzjAj
-`````````````
+64QonGOashcYhjgr
