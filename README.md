@@ -20,7 +20,7 @@ You can check ionic version --> ionic version
 
   Goto Database Access
 
-7.Click on Add New Database User
+4.Click on Add New Database User
   
   Under Password Authentication Enter user name ( For example admin )
   
