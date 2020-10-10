@@ -13,10 +13,8 @@ You can check ionic version --> ionic version
 2.Login in or Sign up
 
 3.Goto network acess (on left side)
-
-  Click on Add Ip Address
-
-  Click on ALLOW ACESS FROM ANYWHERE and click on confirm
+  - Click on Add Ip Address
+  - Click on ALLOW ACESS FROM ANYWHERE and click on confirm
 
   Goto Database Access
 
