@@ -19,7 +19,7 @@ Under Password Authentication Enter user name ( For example admin )
 Click on Autogenerate Secure Password (Which will genetate the secure password. Copy that and save it somewhere. Will be used to connect to mongodb).
 Click in Add User
 
-```````````` SETTING UP MONGO DB `````````````
+` SETTING UP MONGO DB `
 
 To clone us --> git clone https://github.com/pppratyush3/react-mern-fb-clone.git
 
