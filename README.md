@@ -8,7 +8,7 @@ You can check ionic version --> ionic version
 
 To check Capacitor version --> npx cap -V (2.4.2)
 
-npx --> `npx is a new utility available in npm 5 or above that executes local binaries/scripts to avoid global installs`
+# npx --> `npx is a new utility available in npm 5 or above that executes local binaries/scripts to avoid global installs`
 
 Capacitor Docs --> https://capacitorjs.com/docs/getting-started
 
