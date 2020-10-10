@@ -14,7 +14,7 @@ Capacitor Docs --> https://capacitorjs.com/docs/getting-started
 
 Capacitor Cli --> https://capacitorjs.com/docs/reference/cli
 
-`SETTING UP MONGO DB `
+`SETTING UP MONGO DB STARTS`
 
 1.Go to https://www.mongodb.com/
 
@@ -36,7 +36,7 @@ Capacitor Cli --> https://capacitorjs.com/docs/reference/cli
   
   Click in Add User
 
-` SETTING UP MONGO DB `
+` SETTING UP MONGO DB ENDS`
 
 To clone us --> git clone https://github.com/pppratyush3/react-mern-fb-clone.git
 
