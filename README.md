@@ -15,13 +15,13 @@ You can check ionic version --> ionic version
 3.Goto network acess (on left side)
 
   Click on Add Ip Address
-  
+
   Click on ALLOW ACESS FROM ANYWHERE and click on confirm
-  
+
   Goto Database Access
 
 7.Click on Add New Database User
-
+  
   Under Password Authentication Enter user name ( For example admin )
   
   Click on Autogenerate Secure Password (Which will genetate the secure password. Copy that and save it somewhere. Will be used to connect to mongodb).
