@@ -33,6 +33,7 @@ You can check ionic version --> ionic version
 To clone us --> git clone https://github.com/pppratyush3/react-mern-fb-clone.git
 
 `DONT NEED TO INSTALL FOLLOWING. WILL GET INSTALLED BY DEFAULT BY INSTALLING IONIC`
+
 To check Capacitor version --> npx cap -V (2.4.2)
 
 npx --> `npx is a new utility available in npm 5 or above that executes local binaries/scripts to avoid global installs`
