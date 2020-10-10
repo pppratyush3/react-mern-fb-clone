@@ -44,4 +44,5 @@ Capacitor Cli --> https://capacitorjs.com/docs/reference/cli
 
 run --> npm install
 
+###### Git formate link --> https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax
 64QonGOashcYhjgr
