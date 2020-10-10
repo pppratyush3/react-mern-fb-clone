@@ -8,6 +8,8 @@ install ionic cli --> npm install -g @ionic/cli (6.11.11)
 
 You can check ionic version --> ionic version
 
+TO RUN APP -> ionic serve
+
 `SETTING UP MONGO DB STARTS`
 
 1.Go to https://www.mongodb.com/
