@@ -43,6 +43,7 @@ Capacitor Cli --> https://capacitorjs.com/docs/reference/cli
 #### Build
 
  To add addroid --> `npx cap add android`
+ 
  To add ios --> `npx cap add ios`
  
 
