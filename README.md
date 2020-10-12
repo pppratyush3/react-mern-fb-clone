@@ -40,6 +40,12 @@ Capacitor Docs --> https://capacitorjs.com/docs/getting-started
 
 Capacitor Cli --> https://capacitorjs.com/docs/reference/cli
 
+#### Build
+
+ To add addroid --> `npx cap add android`
+ To add ios --> `npx cap add ios`
+ 
+
 run --> npm install
 
 ###### Git formate link --> https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax
